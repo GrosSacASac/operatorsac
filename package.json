@@ -7,7 +7,7 @@
   },
   "files": [
     "operators.js",
-    "readme.js",
+    "readme.md",
     "license.txt",
     "changelog.md"
   ],
