@@ -1,6 +1,7 @@
 {
   "name": "operatorsac",
-  "version": "10.0.0",
+  "version": "10.0.1",
+  "license": "CC0-1.0",
   "module": "operators.js",
   "scripts": {
     "test": "echo see tests"
@@ -11,12 +12,11 @@
     "license.txt",
     "changelog.md"
   ],
-  "keywords": [
-    "operators"
-  ],
-  "license": "CC0-1.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/GrosSacASac/operatorsac.git"
-  }
+  },
+  "keywords": [
+    "operators"
+  ]
 }
